@@ -26,3 +26,4 @@ int main(){
     printf("The magic number is: %d\n", i);
     return 0;
 }
+a
